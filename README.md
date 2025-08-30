@@ -24,13 +24,6 @@ The app is built using the Model-View-ViewModel (MVVM) architecture. This design
 
 ## Getting Started
 
-Follow these steps to get the app up and running:
-
-1. Clone the repository: `git clone https://github.com/Hamad-Anwar/Flutter-Weather-With-APIs-GETX-MVVM.git`
-2. Navigate to the project directory: `cd weather`
-3. Install dependencies: `flutter pub get`
-4. Run the app: `flutter run`
-
 ## API Integration
 
 The app integrates with a weather API to fetch weather data. The API key should be placed in the `lib/data/network/api_services.dart` file. You can obtain an API key by signing up on the weather service's website.
